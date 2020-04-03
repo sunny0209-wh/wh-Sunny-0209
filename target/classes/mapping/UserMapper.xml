@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.qing.tian.test.mapper.UserMapper">
+<!--查询用户信息-->
+    <select id="queryOne" resultType="Emp">
+        select userName,passWord,roleId from emp where userName = #{userName}
+    </select>
+
+<!--查询角色信息-->
+    <select id="queryRole" resultType="Role">
+        select perId,roleName from role where roleId = #{roleId}
+    </select>
+
+<!--    查询权限信息-->
+    <select id="queryPermission" resultType="Permission">
+        select perName from permission where perId = #{perId}
+    </select>
+
+<!--增加用户信息-->
+    <insert id="addUser">
+        insert into emp (name,gender,age,userName,userMail,passWord,roleId)
+        value (#{name},#{gender},#{age},#{userName},#{userMail},#{passWord},#{roleId})
+    </insert>
+<!--删除用户信息-->
+    <delete id="deleteUser">
+        delete from emp where id = #{userid}
+    </delete>
+
+</mapper>

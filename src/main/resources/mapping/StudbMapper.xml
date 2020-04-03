@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.qing.tian.test.mapper.StudbMapper">
+    <!--省-->
+    <select id="queryProvince" resultType="Province">
+        select * from province
+    </select>
+
+    <!--市-->
+    <select id="queryCity" resultType="City">
+        select * from city where provinceid = #{provinceid}
+    </select>
+
+    <!--县-->
+    <select id="queryCounty" resultType="County">
+        select * from county where cityid = #{cityid}
+    </select>
+
+    <!--市 的所有学生-->
+    <select id="queryStu" resultType="Zbstudent">
+        select * from zbstudent where cityid = #{cityid}
+    </select>
+</mapper>

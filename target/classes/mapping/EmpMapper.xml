@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.qing.tian.test.mapper.EmpMapper">
+    <select id="queryAll" resultType="VRP">
+        select * from v_r_p
+    </select>
+
+    <select id="queryFirst" resultType="Emp">
+        select id,name,gender,age,userName,userMail,headImg from emp where userName = #{userName}
+    </select>
+
+    <select id="queryName" resultType="int">
+        select count(1) from emp where userName=#{userName}
+    </select>
+
+    <select id="queryFunction_types" resultType="FunctionTypes">
+        select * from function_types
+    </select>
+
+    <insert id="addUserName">
+        insert into emp(userName) value(#{userName})
+    </insert>
+
+    <update id="modifyEmp">
+        update emp
+        <set>
+            <trim prefixOverrides=",">
+                <if test="name != null">
+                    name = #{name},
+                </if>
+                <if test="gender != null">
+                    gender = #{gender},
+                </if>
+                <if test="age != null">
+                    age = #{age},
+                </if>
+                <if test="userMail != null">
+                    userMail = #{userMail},
+                </if>
+            </trim>
+        </set>
+        <where>
+            userName = #{userName}
+        </where>
+    </update>
+
+    <update id="updateImg">
+        update emp set headImg = #{headImg} where userName = #{userName}
+    </update>
+</mapper>

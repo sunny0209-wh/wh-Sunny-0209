@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="496bc0f5-c846-4285-a57e-cf9fa6ee7d18" name="Default" comment="更新webSocket">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="AnnotationType" />
+        <option value="XSLT Stylesheet" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="BpmnFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Test\GitSunny\wh-Sunny\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Hanyang" />
+        <option name="mavenHome" value="C:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UCX0DGIVS4VPSo7v2egJiW5nBI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\java\cn\qing\tian\test\controller" />
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\java\cn\qing\tian\test\config" />
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\java\cn\qing\tian\test\mapper" />
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\java\cn\qing\tian\test\service\impl" />
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\java\cn\qing\tian\test\service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\resources\sql" />
+      <recent name="C:\Test\GitSunny\wh-Sunny\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.qing.tian.test.service.impl" />
+      <recent name="cn.qing.tian.test.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.qing.tian.test.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SunnyApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SunnyApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sunny" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qing.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.qing.tian.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.qing.tian.test.SunnyApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SunnyApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sunny" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qing.tian.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.qing.tian.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.qing.tian.test.SunnyApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SunnyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sunny" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.qing.tian.test.SunnyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SunnyApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SunnyApplicationTests" />
+      <item itemvalue="Spring Boot.SunnyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SunnyApplicationTests" />
+        <item itemvalue="JUnit.SunnyApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\16643\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496bc0f5-c846-4285-a57e-cf9fa6ee7d18" name="Default" comment="" />
+      <created>1568360226093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568360226093</updated>
+      <workItem from="1568360228548" duration="7540000" />
+      <workItem from="1568424192879" duration="8718000" />
+      <workItem from="1568445535192" duration="8533000" />
+      <workItem from="1568505397767" duration="1025000" />
+      <workItem from="1568521417818" duration="372000" />
+      <workItem from="1568550704741" duration="1056000" />
+      <workItem from="1568697249634" duration="679000" />
+      <workItem from="1569197068422" duration="181000" />
+      <workItem from="1569197273297" duration="74000" />
+      <workItem from="1569239603005" duration="242000" />
+      <workItem from="1569304665020" duration="154000" />
+      <workItem from="1569307998942" duration="244000" />
+      <workItem from="1569308582592" duration="212000" />
+      <workItem from="1569373429445" duration="14053000" />
+      <workItem from="1569474265385" duration="226000" />
+      <workItem from="1570625443925" duration="94000" />
+      <workItem from="1570625784014" duration="150000" />
+      <workItem from="1570707947615" duration="13000" />
+      <workItem from="1570941338903" duration="2204000" />
+      <workItem from="1571026515522" duration="21000" />
+      <workItem from="1571026885159" duration="217000" />
+      <workItem from="1571055496810" duration="62000" />
+      <workItem from="1571125261570" duration="18000" />
+      <workItem from="1571274500015" duration="6000" />
+      <workItem from="1571277345824" duration="56000" />
+      <workItem from="1571286113671" duration="294000" />
+      <workItem from="1571295715475" duration="861000" />
+      <workItem from="1571400515178" duration="12933000" />
+      <workItem from="1571631343702" duration="433000" />
+      <workItem from="1571724570151" duration="506000" />
+      <workItem from="1571982874731" duration="3057000" />
+      <workItem from="1571985957912" duration="1808000" />
+      <workItem from="1571988348647" duration="102000" />
+      <workItem from="1571988496069" duration="131000" />
+      <workItem from="1572068471918" duration="24000" />
+      <workItem from="1572069492325" duration="12299000" />
+      <workItem from="1572156292275" duration="1429000" />
+      <workItem from="1572163392802" duration="5171000" />
+      <workItem from="1572238087319" duration="4436000" />
+      <workItem from="1572849274486" duration="10904000" />
+      <workItem from="1572860665447" duration="1863000" />
+      <workItem from="1572865171610" duration="4563000" />
+      <workItem from="1572927994934" duration="238000" />
+      <workItem from="1572931303492" duration="12793000" />
+      <workItem from="1572949529148" duration="4360000" />
+      <workItem from="1573026799504" duration="12936000" />
+      <workItem from="1573125095235" duration="1926000" />
+      <workItem from="1573267293976" duration="1587000" />
+      <workItem from="1573357066093" duration="87000" />
+      <workItem from="1573372800082" duration="11000" />
+      <workItem from="1573713731815" duration="15000" />
+      <workItem from="1573714653967" duration="9000" />
+      <workItem from="1573714794193" duration="13000" />
+      <workItem from="1574053046321" duration="146000" />
+      <workItem from="1574053226236" duration="22000" />
+      <workItem from="1574861327311" duration="792000" />
+      <workItem from="1574863217376" duration="744000" />
+      <workItem from="1574863992839" duration="6000" />
+      <workItem from="1574919092788" duration="170000" />
+      <workItem from="1574921585756" duration="7001000" />
+      <workItem from="1575007787021" duration="3497000" />
+      <workItem from="1575018326712" duration="54000" />
+      <workItem from="1575096188832" duration="3146000" />
+      <workItem from="1575099843674" duration="1373000" />
+      <workItem from="1575102419214" duration="7238000" />
+      <workItem from="1575263554871" duration="13012000" />
+      <workItem from="1575339473899" duration="11984000" />
+      <workItem from="1575544893651" duration="9043000" />
+      <workItem from="1575602240008" duration="1417000" />
+      <workItem from="1575786951851" duration="21000" />
+      <workItem from="1575788266847" duration="1394000" />
+      <workItem from="1575789786174" duration="927000" />
+      <workItem from="1575793340435" duration="139000" />
+      <workItem from="1575794712115" duration="645000" />
+      <workItem from="1575795625259" duration="33000" />
+      <workItem from="1575795699967" duration="199000" />
+      <workItem from="1575879489075" duration="2639000" />
+      <workItem from="1575888217885" duration="2976000" />
+      <workItem from="1575895057011" duration="27000" />
+      <workItem from="1575965514564" duration="8693000" />
+      <workItem from="1576048708190" duration="38893000" />
+      <workItem from="1576318833082" duration="5218000" />
+      <workItem from="1576476866985" duration="2908000" />
+      <workItem from="1576493063370" duration="8844000" />
+      <workItem from="1576568606080" duration="6922000" />
+      <workItem from="1576633940826" duration="2706000" />
+      <workItem from="1576645365995" duration="8554000" />
+      <workItem from="1576676640080" duration="1358000" />
+      <workItem from="1576715324366" duration="26275000" />
+      <workItem from="1576818789735" duration="20320000" />
+      <workItem from="1576894870801" duration="11540000" />
+      <workItem from="1576928440365" duration="7347000" />
+      <workItem from="1576979023623" duration="2831000" />
+      <workItem from="1576983065309" duration="18646000" />
+      <workItem from="1577022400318" duration="97000" />
+      <workItem from="1577067519101" duration="7571000" />
+      <workItem from="1577083663863" duration="4385000" />
+      <workItem from="1577098960337" duration="1288000" />
+      <workItem from="1577100369899" duration="737000" />
+      <workItem from="1577165802805" duration="702000" />
+      <workItem from="1577183543229" duration="8890000" />
+      <workItem from="1577253792133" duration="1879000" />
+      <workItem from="1577255699837" duration="11994000" />
+      <workItem from="1577276169088" duration="56000" />
+      <workItem from="1577694109100" duration="826000" />
+      <workItem from="1578468382254" duration="1000" />
+      <workItem from="1578468655522" duration="7004000" />
+      <workItem from="1578547425923" duration="4144000" />
+      <workItem from="1578646601239" duration="2000" />
+      <workItem from="1578646668845" duration="2504000" />
+      <workItem from="1578735345659" duration="719000" />
+      <workItem from="1578736307268" duration="591000" />
+      <workItem from="1578815028252" duration="1322000" />
+      <workItem from="1578899261714" duration="30000" />
+      <workItem from="1578899313259" duration="14000" />
+      <workItem from="1578913252640" duration="7944000" />
+      <workItem from="1578970997872" duration="18594000" />
+      <workItem from="1579145451042" duration="2000" />
+      <workItem from="1579145492760" duration="1000" />
+      <workItem from="1579146186006" duration="4055000" />
+      <workItem from="1579151223408" duration="61000" />
+      <workItem from="1579151310574" duration="469000" />
+      <workItem from="1579337952500" duration="1000" />
+      <workItem from="1579338067618" duration="1000" />
+      <workItem from="1579338160849" duration="1000" />
+      <workItem from="1579338298214" duration="2000" />
+      <workItem from="1579338410266" duration="9000" />
+      <workItem from="1579339211343" duration="6000" />
+      <workItem from="1579339768783" duration="111000" />
+      <workItem from="1579339983810" duration="1207000" />
+      <workItem from="1579350133188" duration="120000" />
+      <workItem from="1579412443101" duration="3000000" />
+      <workItem from="1579433932500" duration="698000" />
+      <workItem from="1579487481924" duration="1214000" />
+      <workItem from="1579498568381" duration="1053000" />
+      <workItem from="1579507924226" duration="800000" />
+      <workItem from="1579527364191" duration="1984000" />
+      <workItem from="1579566399316" duration="7002000" />
+      <workItem from="1579758516640" duration="1367000" />
+      <workItem from="1579762386877" duration="2636000" />
+      <workItem from="1579765747555" duration="5313000" />
+      <workItem from="1579852588825" duration="6726000" />
+      <workItem from="1580115734280" duration="2091000" />
+      <workItem from="1580174219452" duration="2363000" />
+      <workItem from="1580180734669" duration="1489000" />
+      <workItem from="1580208695463" duration="2645000" />
+      <workItem from="1580266806534" duration="8000" />
+      <workItem from="1580266874713" duration="1000" />
+      <workItem from="1580267108369" duration="1000" />
+      <workItem from="1580267241379" duration="7639000" />
+      <workItem from="1580473159434" duration="147000" />
+      <workItem from="1580539444877" duration="15000" />
+      <workItem from="1580539479567" duration="4000" />
+      <workItem from="1580539510162" duration="5871000" />
+      <workItem from="1580897354797" duration="523000" />
+      <workItem from="1581312746543" duration="3000" />
+      <workItem from="1581312863468" duration="1412000" />
+      <workItem from="1581678572093" duration="2000" />
+      <workItem from="1581678665558" duration="231000" />
+      <workItem from="1581760484600" duration="966000" />
+      <workItem from="1582272361163" duration="4699000" />
+      <workItem from="1582603797671" duration="3029000" />
+      <workItem from="1582618713432" duration="6778000" />
+      <workItem from="1582777658717" duration="5688000" />
+      <workItem from="1582788998605" duration="8546000" />
+      <workItem from="1582853619457" duration="12797000" />
+      <workItem from="1583118111499" duration="96000" />
+      <workItem from="1583118637836" duration="35000" />
+      <workItem from="1583124116443" duration="1592000" />
+      <workItem from="1583224711160" duration="396000" />
+      <workItem from="1583299133179" duration="387000" />
+      <workItem from="1583638999864" duration="606000" />
+      <workItem from="1583639994427" duration="1467000" />
+      <workItem from="1583818862436" duration="18000" />
+      <workItem from="1583819304977" duration="42000" />
+      <workItem from="1584173680327" duration="2368000" />
+      <workItem from="1584354359001" duration="3466000" />
+      <workItem from="1584431432003" duration="108000" />
+      <workItem from="1584431558589" duration="651000" />
+      <workItem from="1584432230205" duration="750000" />
+      <workItem from="1584437770214" duration="550000" />
+      <workItem from="1584522800120" duration="473000" />
+      <workItem from="1584947819152" duration="8158000" />
+      <workItem from="1585045907299" duration="859000" />
+      <workItem from="1585137924172" duration="503000" />
+      <workItem from="1585139584632" duration="142000" />
+      <workItem from="1585139753929" duration="400000" />
+      <workItem from="1585220164910" duration="13000" />
+      <workItem from="1585227131162" duration="28000" />
+      <workItem from="1585558101294" duration="6143000" />
+      <workItem from="1585613497371" duration="1161000" />
+      <workItem from="1585810233753" duration="7868000" />
+      <workItem from="1585905946236" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1577099771640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577099771640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1577194107269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577194107270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新">
+      <created>1577694898611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577694898611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新">
+      <created>1578914477408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578914477408</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新">
+      <created>1578914864650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578914864650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新">
+      <created>1579412546086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579412546086</updated>
+    </task>
+    <task id="LOCAL-00007" summary="文件上传">
+      <created>1579413138449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579413138449</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1月29更新">
+      <created>1580274852890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580274852890</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新">
+      <created>1580539566118</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580539566118</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更新">
+      <created>1581313790821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581313790821</updated>
+    </task>
+    <task id="LOCAL-00011" summary="更新webSocket">
+      <created>1583118166476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583118166476</updated>
+    </task>
+    <task id="LOCAL-00012" summary="更新webSocket">
+      <created>1583124187758</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583124187758</updated>
+    </task>
+    <task id="LOCAL-00013" summary="更新webSocket">
+      <created>1583124228277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1583124228277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="更新云短信">
+      <created>1583299310880</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583299310880</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Sunny" />
+    </ignored-roots>
+    <MESSAGE value="文件上传" />
+    <MESSAGE value="1月29更新" />
+    <MESSAGE value="更新" />
+    <MESSAGE value="更新webSocket" />
+    <MESSAGE value="更新云短信" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新云短信" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583224844838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583224844838" />
+    <state x="418" y="9" key="CommitChangelistDialog2" timestamp="1583299308886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583299308886" />
+    <state x="591" y="169" key="FileChooserDialogImpl" timestamp="1584432196091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584432196091" />
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom" timestamp="1585830247008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585830247008" />
+    <state width="1493" height="615" key="GridCell.Tab.0.center" timestamp="1585830247007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585830247007" />
+    <state width="1493" height="615" key="GridCell.Tab.0.left" timestamp="1585830247007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585830247007" />
+    <state width="1493" height="615" key="GridCell.Tab.0.right" timestamp="1585830247007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585830247007" />
+    <state width="1493" height="615" key="GridCell.Tab.1.bottom" timestamp="1585830247008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585830247008" />
+    <state width="1493" height="615" key="GridCell.Tab.1.center" timestamp="1585830247008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585830247008" />
+    <state width="1493" height="615" key="GridCell.Tab.1.left" timestamp="1585830247008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585830247008" />
+    <state width="1493" height="615" key="GridCell.Tab.1.right" timestamp="1585830247008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585830247008" />
+    <state x="349" y="149" key="IDE.errors.dialog" timestamp="1584432365366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="149" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1584432365366" />
+    <state x="314" y="0" key="SettingsEditor" timestamp="1584432273168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584432273168" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1583299314327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583299314327" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1583299138612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583299138612" />
+  </component>
+</project>
