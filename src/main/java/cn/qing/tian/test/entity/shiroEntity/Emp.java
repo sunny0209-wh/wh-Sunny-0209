@@ -12,6 +12,20 @@ public class Emp {
   private long roleId;
   private String headImg;
 
+  public Emp() {
+  }
+
+  public Emp(long id, String name, String gender, long age, String userName, String userMail, String passWord, long roleId, String headImg) {
+    this.id = id;
+    this.name = name;
+    this.gender = gender;
+    this.age = age;
+    this.userName = userName;
+    this.userMail = userMail;
+    this.passWord = passWord;
+    this.roleId = roleId;
+    this.headImg = headImg;
+  }
 
   public long getId() {
     return id;
