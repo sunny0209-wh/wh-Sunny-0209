@@ -89,12 +89,12 @@ public class ShiroController {
         Map<String,Object> result = new HashMap<>();
         Subject subject = SecurityUtils.getSubject();
         Session token = subject.getSession();
-        result.put("token",token.getId());
-        result.put("userName",userNames);
-        result.put("passWord",rs.get(userNames));
-        if(userNames != null && rs.get(userNames) != null)
+        if(userNames != null)
         {
             result.put("rememberme",true);
+            result.put("token",token.getId());
+            result.put("userName",userNames);
+            result.put("passWord",rs.get(userNames));
         }
         return JSON.toJSONString(result);
     }
