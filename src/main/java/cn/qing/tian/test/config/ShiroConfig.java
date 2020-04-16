@@ -55,14 +55,16 @@ public class ShiroConfig {
         filterChainDefinitionMap.put("/emp/www","anon");
         filterChainDefinitionMap.put("/file/uploads","anon");
 
-        filterChainDefinitionMap.put("/emp/page","roles[svip]");
-        filterChainDefinitionMap.put("/emp/page","perms[select]");
+//        filterChainDefinitionMap.put("/emp/page","roles[admine]");
+//        filterChainDefinitionMap.put("/emp/page","perms[add]");
+        filterChainDefinitionMap.put("/emp/page","anon");
 
         filterChainDefinitionMap.put("/emp/page1","anon");
         filterChainDefinitionMap.put("/emp/all","anon");
         filterChainDefinitionMap.put("/sms/send","anon");
         filterChainDefinitionMap.put("/sms/testing","anon");
         filterChainDefinitionMap.put("/shiro/rememberi","anon");
+        filterChainDefinitionMap.put("/shiro/delete","anon");
 
         filterChainDefinitionMap.put("/shiro/add","roles[svip]");
         filterChainDefinitionMap.put("/shiro/add","perms[add]");
